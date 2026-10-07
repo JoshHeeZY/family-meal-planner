@@ -1,0 +1,17 @@
+{
+  "name": "Family meal planner",
+  "short_name": "Week table",
+  "description": "7-day Cantonese, Teochew, and Vietnamese lunch and dinner plan for a family of 8.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe4",
+  "theme_color": "#b44a2b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
