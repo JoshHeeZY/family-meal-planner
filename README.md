@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy on Netlify
 
-1. Push this repo to GitHub.
+1. Repo: [JoshHeeZY/family-meal-planner](https://github.com/JoshHeeZY/family-meal-planner)
 2. New site on [Netlify](https://app.netlify.com) from that repo.
 3. Build command `npm run build` and publish `.next` are already in `netlify.toml`.
 4. Netlify will use the Next.js runtime plugin listed there.
